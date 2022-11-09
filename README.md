@@ -1,7 +1,7 @@
 
 # About
-> In this project, we will build a model to detect whether a person is wearing mask in real-time. 
-  We will do this using the concepts of computer vision using the OpenCV library and Keras
+> In this project, I built a model to detect whether a person is wearing mask in real-time. 
+  I did this using the concepts of computer vision using the OpenCV library and Keras.
 
 ## Installation
 
